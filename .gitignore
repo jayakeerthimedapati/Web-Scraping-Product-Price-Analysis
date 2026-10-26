@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# Virtual environments and secrets
+venv/
+.venv/
+env/
+.env
+
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated dataset (recreate it by running scraping/web_scraping.ipynb)
+data/*.csv
+data/*.xlsx
+data/*.xls
+!data/README.md
+!data/sample_*.csv
+
+# Dashboard downloads
+dashboard_exports/
+
+# Colab / temporary files
+*.zip
+*.tmp
+*.log
