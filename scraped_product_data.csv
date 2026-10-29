@@ -1,0 +1,501 @@
+ID,Image,Product_Name,Vendor,Category,Price,Rating,Stock,SKU,Variants
+1,,Lightweight Probiotics,SoundWave,Health,155.62,4.0,Yes,SKU-HEA-0001,4
+2,,Wireless LED Desk Lamp,SoundWave,Electronics,145.4,4.6,No,SKU-ELE-0002,2
+3,,Deluxe Tea Collection,StyleCraft,Food & Beverage,185.01,3.5,Yes,SKU-FOO-0003,3
+4,,Essential Tire Gauge,TechVault,Automotive,70.86,3.6,No,SKU-AUT-0004,5
+5,,Smart Carving Tools,SparkleBox,Art,97.13,3.5,Yes,SKU-ART-0005,5
+6,,Professional Dog Food,StyleCraft,Pet Supplies,145.4,4.6,Yes,SKU-PET-0006,4
+7,,Smart Car Wash Kit,UrbanThread,Automotive,139.94,3.0,Yes,SKU-AUT-0007,3
+8,,Premium Bluetooth Speaker,AutoParts Pro,Electronics,108.99,4.5,Yes,SKU-ELE-0008,3
+9,,Vintage Tablet Stand,GlowUp,Electronics,44.15,3.4,Yes,SKU-ELE-0009,2
+10,,Portable Marker Pack,VitalLife,Art,193.91,4.2,Yes,SKU-ART-0010,3
+11,,Professional Brush Kit,AutoParts Pro,Art,55.29,3.6,No,SKU-ART-0011,3
+12,,Smart Play Dough,AutoParts Pro,Toys,123.5,3.5,Yes,SKU-TOY-0012,2
+13,,Premium Vinyl Record,DeskMate,Music,69.22,4.5,Yes,SKU-MUS-0013,2
+14,,Professional Aquarium Plant,TechVault,Pet Supplies,71.68,4.6,Yes,SKU-PET-0014,4
+15,,Vintage Stuffed Animal,HomeNest,Toys,124.84,5.0,Yes,SKU-TOY-0015,2
+16,,Eco-Friendly Protein Bar,UrbanThread,Food & Beverage,76.27,3.9,Yes,SKU-FOO-0016,2
+17,,Lightweight Paper Clips,UrbanThread,Office Supplies,156.17,4.3,Yes,SKU-OFF-0017,5
+18,,Professional Guitar Strings,NovaTech,Music,159.77,4.1,Yes,SKU-MUS-0018,2
+19,,Premium Business Book,PageTurner,Books,175.14,4.9,Yes,SKU-BOO-0019,2
+20,,Handcrafted Locket,DeskMate,Jewelry,106.84,4.2,Yes,SKU-JEW-0020,3
+21,,Compact Heating Pad,NovaTech,Health,70.83,4.8,Yes,SKU-HEA-0021,2
+22,,Advanced Brake Pad,PlayZone,Automotive,108.45,4.3,Yes,SKU-AUT-0022,5
+23,,Heavy-Duty Seat Cover,ProGear,Automotive,30.36,4.2,Yes,SKU-AUT-0023,4
+24,,Heavy-Duty Palette,TasteBud,Art,179.54,3.7,Yes,SKU-ART-0024,5
+25,,Vintage Nerf Gun,CozyCorner,Toys,107.53,3.6,Yes,SKU-TOY-0025,2
+26,,Pro Stamp Set,CozyCorner,Office Supplies,16.25,4.6,Yes,SKU-OFF-0026,3
+27,,Premium Air Freshener,VitalLife,Automotive,165.03,4.8,No,SKU-AUT-0027,2
+28,,Heavy-Duty Label Maker,PawPal,Office Supplies,195.41,3.2,Yes,SKU-OFF-0028,2
+29,,Lightweight Blood Pressure Monitor,FitPro,Health,170.16,4.9,No,SKU-HEA-0029,5
+30,,Ultra USB-C Hub,HomeNest,Electronics,110.55,3.9,Yes,SKU-ELE-0030,2
+31,,Premium Travel Guide,SoundWave,Books,133.28,3.6,Yes,SKU-BOO-0031,3
+32,,Vintage Speaker Cable,ProGear,Music,49.19,3.4,No,SKU-MUS-0032,4
+33,,Classic First Aid Kit,VitalLife,Health,15.69,4.1,Yes,SKU-HEA-0033,2
+34,,Eco-Friendly Grip Gloves,StyleCraft,Sports,193.06,3.7,No,SKU-SPO-0034,2
+35,,Vintage Hoop Earrings,TasteBud,Jewelry,27.37,3.1,Yes,SKU-JEW-0035,3
+36,,Modern Nut Mix,NovaTech,Food & Beverage,31.27,3.9,Yes,SKU-FOO-0036,3
+37,,Handcrafted Flannel Shirt,SparkleBox,Clothing,164.84,4.4,Yes,SKU-CLO-0037,3
+38,,Lightweight Vitamin Pack,VitalLife,Health,148.91,4.6,Yes,SKU-HEA-0038,2
+39,,Compact Canvas,NovaTech,Art,204.29,4.7,Yes,SKU-ART-0039,4
+40,,Professional Skipping Rope,SoundWave,Sports,31.33,3.4,Yes,SKU-SPO-0040,5
+41,,Ultra Cookbook,PlayZone,Books,104.27,3.3,Yes,SKU-BOO-0041,2
+42,,Vintage Microphone,PageTurner,Electronics,27.42,3.3,No,SKU-ELE-0042,3
+43,,Limited Edition Calligraphy Set,NovaTech,Art,44.65,4.1,Yes,SKU-ART-0043,2
+44,,Vintage Art Book,HomeNest,Books,91.83,4.3,Yes,SKU-BOO-0044,2
+45,,Handcrafted Chain,CozyCorner,Jewelry,13.6,3.4,Yes,SKU-JEW-0045,2
+46,,Heavy-Duty Play Dough,DeskMate,Toys,50.6,4.5,Yes,SKU-TOY-0046,2
+47,,Classic Sunscreen,DeskMate,Beauty,157.22,4.1,No,SKU-BEA-0047,3
+48,,Smart Ab Wheel,FitPro,Sports,102.86,3.6,Yes,SKU-SPO-0048,4
+49,,Ultra Vinyl Record,GlowUp,Music,158.97,3.7,Yes,SKU-MUS-0049,4
+50,,Organic Olive Oil,PlayZone,Food & Beverage,52.91,3.2,Yes,SKU-FOO-0050,3
+51,,Premium Belt,MindBooks,Clothing,67.17,4.6,Yes,SKU-CLO-0051,4
+52,,Advanced Journal,VitalLife,Books,84.44,3.4,Yes,SKU-BOO-0052,5
+53,,Wireless Jam Collection,UrbanThread,Food & Beverage,175.09,3.7,No,SKU-FOO-0053,2
+54,,Portable Children's Book,FitPro,Books,141.9,3.3,Yes,SKU-BOO-0054,2
+55,,Professional MIDI Controller,SoundWave,Music,79.85,4.2,Yes,SKU-MUS-0055,4
+56,,Essential Ring Light,TechVault,Electronics,117.84,4.0,Yes,SKU-ELE-0056,3
+57,,Essential Thermometer,PageTurner,Health,81.15,3.4,Yes,SKU-HEA-0057,3
+58,,Advanced File Folder,StyleCraft,Office Supplies,156.62,3.5,No,SKU-OFF-0058,2
+59,,Advanced Watch,FitPro,Clothing,45.33,3.3,Yes,SKU-CLO-0059,2
+60,,Eco-Friendly Puzzle Set,FitPro,Toys,158.96,4.1,Yes,SKU-TOY-0060,2
+61,,Essential Spark Plug,NovaTech,Automotive,180.29,3.4,Yes,SKU-AUT-0061,3
+62,,Compact Smart Watch,HomeNest,Electronics,102.16,4.4,No,SKU-ELE-0062,2
+63,,Professional Watch,StyleCraft,Clothing,100.01,3.1,Yes,SKU-CLO-0063,2
+64,,Professional Thermometer,UrbanThread,Health,199.47,3.6,No,SKU-HEA-0064,5
+65,,Classic Litter Box,SparkleBox,Pet Supplies,53.01,3.1,No,SKU-PET-0065,2
+66,,Vintage Trunk Organizer,StyleCraft,Automotive,182.08,3.7,Yes,SKU-AUT-0066,5
+67,,Lightweight Toe Ring,FitPro,Jewelry,188.36,4.4,Yes,SKU-JEW-0067,5
+68,,Wireless Stamp Set,GlowUp,Office Supplies,45.66,4.5,Yes,SKU-OFF-0068,2
+69,,Lightweight Cardigan,HomeNest,Clothing,11.02,4.3,Yes,SKU-CLO-0069,2
+70,,Classic Moisturizer,HomeNest,Beauty,143.0,4.4,Yes,SKU-BEA-0070,2
+71,,Classic Canvas,AutoParts Pro,Art,21.25,3.6,Yes,SKU-ART-0071,5
+72,,Handcrafted Speaker Cable,PawPal,Music,70.07,3.2,Yes,SKU-MUS-0072,3
+73,,Advanced Pick Set,TechVault,Music,128.87,4.2,Yes,SKU-MUS-0073,2
+74,,Lightweight Tuner,VitalLife,Music,148.14,3.4,No,SKU-MUS-0074,5
+75,,Limited Edition File Folder,ProGear,Office Supplies,55.52,4.4,Yes,SKU-OFF-0075,4
+76,,Lightweight Socks Pack,PawPal,Clothing,187.14,3.7,No,SKU-CLO-0076,2
+77,,Modern Coffee Beans,DeskMate,Food & Beverage,6.22,4.3,Yes,SKU-FOO-0077,3
+78,,Wireless Car Vacuum,PawPal,Automotive,42.41,4.8,Yes,SKU-AUT-0078,4
+79,,Classic Pill Organizer,SoundWave,Health,141.59,4.8,Yes,SKU-HEA-0079,4
+80,,Portable Planner,VitalLife,Books,16.64,3.5,Yes,SKU-BOO-0080,4
+81,,Eco-Friendly Blood Pressure Monitor,AutoParts Pro,Health,115.64,3.8,Yes,SKU-HEA-0081,2
+82,,Portable Sneakers,PlayZone,Clothing,24.83,3.5,Yes,SKU-CLO-0082,2
+83,,Ultra Locket,MindBooks,Jewelry,158.09,3.6,Yes,SKU-JEW-0083,5
+84,,Professional Vitamin Pack,VitalLife,Health,90.2,4.7,Yes,SKU-HEA-0084,5
+85,,Ultra First Aid Kit,PlayZone,Health,56.04,3.3,Yes,SKU-HEA-0085,3
+86,,Vintage Highlighters,MindBooks,Office Supplies,195.45,4.2,Yes,SKU-OFF-0086,4
+87,,Pro Headphones,TechVault,Music,86.34,3.6,Yes,SKU-MUS-0087,3
+88,,Organic Clock,ProGear,Home & Garden,90.92,4.2,Yes,SKU-HOM-0088,4
+89,,Wireless Smart Watch,AutoParts Pro,Electronics,27.3,4.8,No,SKU-ELE-0089,2
+90,,Wireless Headphones,ProGear,Music,125.33,3.0,Yes,SKU-MUS-0090,4
+91,,Premium Seat Cover,UrbanThread,Automotive,14.0,3.5,Yes,SKU-AUT-0091,4
+92,,Advanced Napkin Holder,SoundWave,Home & Garden,170.01,4.0,Yes,SKU-HOM-0092,3
+93,,Lightweight Battery,AutoParts Pro,Automotive,93.48,4.1,Yes,SKU-AUT-0093,3
+94,,Compact Joggers,SoundWave,Clothing,35.16,4.8,Yes,SKU-CLO-0094,2
+95,,Heavy-Duty Olive Oil,ProGear,Food & Beverage,152.94,3.1,No,SKU-FOO-0095,2
+96,,Smart Bracelet,SoundWave,Jewelry,151.07,4.3,Yes,SKU-JEW-0096,4
+97,,Deluxe Wiper Blade,UrbanThread,Automotive,121.64,4.8,Yes,SKU-AUT-0097,2
+98,,Modern Popcorn Pack,DeskMate,Food & Beverage,147.51,3.7,Yes,SKU-FOO-0098,4
+99,,Advanced Iron Supplement,PageTurner,Health,146.78,3.8,Yes,SKU-HEA-0099,5
+100,,Eco-Friendly Bangle,NovaTech,Jewelry,51.11,4.3,Yes,SKU-JEW-0100,3
+101,,Essential Sunglasses,FitPro,Clothing,144.83,3.2,Yes,SKU-CLO-0101,3
+102,,Heavy-Duty Vinyl Record,TechVault,Music,194.89,3.4,Yes,SKU-MUS-0102,3
+103,,Smart Storage Basket,TasteBud,Home & Garden,7.55,4.9,Yes,SKU-HOM-0103,4
+104,,Modern Puzzle Set,VitalLife,Toys,146.64,3.6,Yes,SKU-TOY-0104,4
+105,,Smart Scarf,MindBooks,Clothing,109.34,3.1,Yes,SKU-CLO-0105,5
+106,,Vintage Collar,GlowUp,Pet Supplies,181.46,3.3,Yes,SKU-PET-0106,4
+107,,Compact Sneakers,CozyCorner,Clothing,74.48,4.5,Yes,SKU-CLO-0107,3
+108,,Deluxe Shorts,AutoParts Pro,Clothing,192.23,3.3,Yes,SKU-CLO-0108,4
+109,,Portable Sweatband,ProGear,Sports,35.04,4.5,Yes,SKU-SPO-0109,4
+110,,Classic Tennis Balls,UrbanThread,Sports,83.72,4.8,Yes,SKU-SPO-0110,5
+111,,Smart Pop Filter,CozyCorner,Music,43.29,3.3,Yes,SKU-MUS-0111,4
+112,,Advanced Strap,CozyCorner,Music,94.54,4.6,Yes,SKU-MUS-0112,2
+113,,Deluxe Ab Wheel,PawPal,Sports,36.47,4.7,Yes,SKU-SPO-0113,5
+114,,Smart Capo,PageTurner,Music,107.29,4.4,Yes,SKU-MUS-0114,4
+115,,Handcrafted Paper Clips,GlowUp,Office Supplies,155.36,3.7,Yes,SKU-OFF-0115,5
+116,,Eco-Friendly Tape Dispenser,AutoParts Pro,Office Supplies,105.07,4.2,Yes,SKU-OFF-0116,2
+117,,Eco-Friendly Thermometer,SparkleBox,Health,62.03,4.6,Yes,SKU-HEA-0117,5
+118,,Essential Stud Earrings,FitPro,Jewelry,105.39,4.6,Yes,SKU-JEW-0118,3
+119,,Lightweight Protein Powder,VitalLife,Health,119.4,3.9,Yes,SKU-HEA-0119,5
+120,,Smart Cardigan,TasteBud,Clothing,28.73,5.0,Yes,SKU-CLO-0120,5
+121,,Organic Mug Set,VitalLife,Home & Garden,150.77,4.2,Yes,SKU-HOM-0121,4
+122,,Advanced Catnip,GlowUp,Pet Supplies,183.75,4.8,Yes,SKU-PET-0122,3
+123,,Handcrafted Business Book,StyleCraft,Books,203.17,4.9,Yes,SKU-BOO-0123,4
+124,,Ultra Train Set,TasteBud,Toys,143.16,4.1,Yes,SKU-TOY-0124,2
+125,,Advanced Brooch,DeskMate,Jewelry,177.99,4.1,Yes,SKU-JEW-0125,5
+126,,Classic Wall Art,ProGear,Home & Garden,154.5,4.8,Yes,SKU-HOM-0126,5
+127,,Premium Mystery Novel,MindBooks,Books,26.81,4.6,Yes,SKU-BOO-0127,5
+128,,Eco-Friendly Flannel Shirt,ProGear,Clothing,75.16,4.4,Yes,SKU-CLO-0128,5
+129,,Lightweight Ice Pack,MindBooks,Health,191.92,3.4,Yes,SKU-HEA-0129,2
+130,,Portable Bubble Machine,CozyCorner,Toys,59.9,3.9,No,SKU-TOY-0130,2
+131,,Lightweight Hand Cream,HomeNest,Beauty,188.36,4.4,Yes,SKU-BEA-0131,3
+132,,Classic Capo,VitalLife,Music,105.87,4.3,Yes,SKU-MUS-0132,2
+133,,Professional Car Charger,StyleCraft,Automotive,27.68,4.3,Yes,SKU-AUT-0133,4
+134,,Eco-Friendly Sunscreen,AutoParts Pro,Beauty,141.25,4.6,Yes,SKU-BEA-0134,4
+135,,Portable Chain,SparkleBox,Jewelry,141.26,4.7,Yes,SKU-JEW-0135,2
+136,,Advanced Watch,FitPro,Clothing,69.96,4.3,No,SKU-CLO-0136,2
+137,,Modern Stamp Set,PageTurner,Office Supplies,55.31,4.4,No,SKU-OFF-0137,2
+138,,Limited Edition Pick Set,MindBooks,Music,10.84,4.7,Yes,SKU-MUS-0138,2
+139,,Ultra Slime Kit,GlowUp,Toys,110.41,3.9,Yes,SKU-TOY-0139,3
+140,,Portable Essential Oil,NovaTech,Health,192.76,3.5,Yes,SKU-HEA-0140,5
+141,,Limited Edition Melatonin,GlowUp,Health,127.15,4.9,Yes,SKU-HEA-0141,4
+142,,Organic Napkin Holder,StyleCraft,Home & Garden,161.36,4.6,No,SKU-HOM-0142,4
+143,,Heavy-Duty Belt,AutoParts Pro,Clothing,150.56,3.3,No,SKU-CLO-0143,5
+144,,Organic Self-Help Guide,HomeNest,Books,67.62,4.4,Yes,SKU-BOO-0144,2
+145,,Premium Stamp Set,SparkleBox,Office Supplies,193.49,4.9,Yes,SKU-OFF-0145,5
+146,,Vintage Body Chain,CozyCorner,Jewelry,126.03,5.0,Yes,SKU-JEW-0146,5
+147,,Deluxe LED Desk Lamp,DeskMate,Electronics,58.45,4.7,Yes,SKU-ELE-0147,3
+148,,Eco-Friendly Yoga Mat,GlowUp,Sports,68.34,4.1,Yes,SKU-SPO-0148,5
+149,,Handcrafted Building Blocks,GlowUp,Toys,153.64,4.4,Yes,SKU-TOY-0149,4
+150,,Professional Tablet Stand,TechVault,Electronics,194.35,3.1,No,SKU-ELE-0150,2
+151,,Vintage Beef Jerky,PageTurner,Food & Beverage,120.07,4.2,Yes,SKU-FOO-0151,3
+152,,Premium Carving Tools,HomeNest,Art,29.14,3.3,Yes,SKU-ART-0152,4
+153,,Smart Aquarium Plant,PageTurner,Pet Supplies,38.06,4.7,Yes,SKU-PET-0153,3
+154,,Handcrafted Watch,AutoParts Pro,Clothing,53.69,4.0,Yes,SKU-CLO-0154,4
+155,,Vintage Bird Feeder,SoundWave,Pet Supplies,88.67,4.8,Yes,SKU-PET-0155,4
+156,,Organic Plant Pot,ArtisanHub,Home & Garden,117.02,3.9,Yes,SKU-HOM-0156,2
+157,,Eco-Friendly Eye Cream,MindBooks,Beauty,123.02,3.5,Yes,SKU-BEA-0157,5
+158,,Smart Boxing Gloves,StyleCraft,Sports,96.53,3.7,Yes,SKU-SPO-0158,4
+159,,Portable Tape Dispenser,PawPal,Office Supplies,102.6,4.2,Yes,SKU-OFF-0159,2
+160,,Classic Nail Polish,SparkleBox,Beauty,112.45,3.0,Yes,SKU-BEA-0160,3
+161,,Essential Mystery Novel,StyleCraft,Books,153.85,3.6,Yes,SKU-BOO-0161,4
+162,,Premium Omega-3 Capsules,GlowUp,Health,201.63,5.0,No,SKU-HEA-0162,2
+163,,Classic Leash,MindBooks,Pet Supplies,89.34,4.1,Yes,SKU-PET-0163,4
+164,,Essential Stud Earrings,NovaTech,Jewelry,158.99,3.5,Yes,SKU-JEW-0164,4
+165,,Smart Jump Rope,DeskMate,Sports,150.09,5.0,Yes,SKU-SPO-0165,4
+166,,Premium History Book,VitalLife,Books,41.46,3.0,Yes,SKU-BOO-0166,4
+167,,Wireless Vinyl Record,NovaTech,Music,107.79,4.1,Yes,SKU-MUS-0167,5
+168,,Advanced Food Bowl,UrbanThread,Pet Supplies,100.78,4.4,Yes,SKU-PET-0168,2
+169,,Professional Hoop Earrings,SparkleBox,Jewelry,57.53,4.1,Yes,SKU-JEW-0169,5
+170,,Smart Seat Cover,FitPro,Automotive,48.18,3.3,Yes,SKU-AUT-0170,4
+171,,Heavy-Duty Vinyl Record,UrbanThread,Music,68.64,4.7,Yes,SKU-MUS-0171,3
+172,,Vintage Pull-Up Bar,GlowUp,Sports,202.91,4.7,No,SKU-SPO-0172,2
+173,,Portable MIDI Controller,NovaTech,Music,203.13,3.1,Yes,SKU-MUS-0173,2
+174,,Advanced Eye Cream,PageTurner,Beauty,7.7,4.1,Yes,SKU-BEA-0174,2
+175,,Modern Planner,ArtisanHub,Books,113.53,4.9,Yes,SKU-BOO-0175,5
+176,,Lightweight Chinos,PageTurner,Clothing,18.67,3.4,Yes,SKU-CLO-0176,3
+177,,Premium Spice Set,GlowUp,Food & Beverage,6.68,3.4,Yes,SKU-FOO-0177,2
+178,,Handcrafted Phone Mount,ProGear,Automotive,128.07,3.7,Yes,SKU-AUT-0178,4
+179,,Professional Sun Shade,HomeNest,Automotive,7.31,4.4,Yes,SKU-AUT-0179,2
+180,,Eco-Friendly Blood Pressure Monitor,ArtisanHub,Health,83.4,4.3,No,SKU-HEA-0180,4
+181,,Deluxe Protein Bar,MindBooks,Food & Beverage,120.78,4.7,Yes,SKU-FOO-0181,5
+182,,Lightweight Notebook,TechVault,Office Supplies,165.84,3.9,Yes,SKU-OFF-0182,3
+183,,Modern Binder,MindBooks,Office Supplies,130.68,3.2,No,SKU-OFF-0183,3
+184,,Advanced Car Charger,DeskMate,Automotive,63.89,4.9,Yes,SKU-AUT-0184,3
+185,,Portable Napkin Holder,GlowUp,Home & Garden,76.76,3.2,Yes,SKU-HOM-0185,5
+186,,Professional Leash,GlowUp,Pet Supplies,119.7,3.0,Yes,SKU-PET-0186,3
+187,,Deluxe Ice Scraper,CozyCorner,Automotive,96.31,4.2,Yes,SKU-AUT-0187,5
+188,,Vintage Label Maker,SoundWave,Office Supplies,131.62,4.3,Yes,SKU-OFF-0188,2
+189,,Eco-Friendly Amp,ArtisanHub,Music,121.82,3.8,Yes,SKU-MUS-0189,4
+190,,Limited Edition Stuffed Animal,DeskMate,Toys,149.56,3.2,Yes,SKU-TOY-0190,4
+191,,Ultra MIDI Controller,SoundWave,Music,9.88,3.5,Yes,SKU-MUS-0191,5
+192,,Classic Watch,NovaTech,Clothing,67.38,3.3,Yes,SKU-CLO-0192,2
+193,,Modern Children's Book,DeskMate,Books,38.62,4.3,Yes,SKU-BOO-0193,4
+194,,Smart Eye Cream,TechVault,Beauty,20.01,3.1,No,SKU-BEA-0194,3
+195,,Advanced Spice Set,PawPal,Food & Beverage,27.65,3.5,Yes,SKU-FOO-0195,3
+196,,Portable Stapler,TasteBud,Office Supplies,23.63,3.6,Yes,SKU-OFF-0196,3
+197,,Professional Laptop Sleeve,PawPal,Electronics,192.64,4.4,Yes,SKU-ELE-0197,5
+198,,Eco-Friendly Binder,DeskMate,Office Supplies,9.44,4.9,Yes,SKU-OFF-0198,3
+199,,Organic Dollhouse,PawPal,Toys,175.94,4.8,Yes,SKU-TOY-0199,4
+200,,Advanced Stencil Set,NovaTech,Art,154.08,3.7,Yes,SKU-ART-0200,3
+201,,Compact Metronome,SparkleBox,Music,160.71,3.9,Yes,SKU-MUS-0201,3
+202,,Modern Plant Pot,PageTurner,Home & Garden,90.89,3.1,Yes,SKU-HOM-0202,5
+203,,Smart Screen Protector,NovaTech,Electronics,173.13,3.1,Yes,SKU-ELE-0203,3
+204,,Pro Boom Arm,HomeNest,Music,142.43,3.7,Yes,SKU-MUS-0204,3
+205,,Modern Phone Case,GlowUp,Electronics,51.34,3.5,Yes,SKU-ELE-0205,2
+206,,Smart Popcorn Pack,ArtisanHub,Food & Beverage,68.14,4.2,Yes,SKU-FOO-0206,4
+207,,Premium Sunglasses,MindBooks,Clothing,129.25,3.8,Yes,SKU-CLO-0207,5
+208,,Pro Belt,PageTurner,Clothing,144.06,3.0,Yes,SKU-CLO-0208,2
+209,,Eco-Friendly Smart Watch,NovaTech,Electronics,168.73,4.1,Yes,SKU-ELE-0209,4
+210,,Heavy-Duty Sketchbook,TasteBud,Art,74.16,4.9,Yes,SKU-ART-0210,5
+211,,Premium Ankle Weights,PageTurner,Sports,29.2,4.6,Yes,SKU-SPO-0211,2
+212,,Limited Edition Oil Filter,FitPro,Automotive,112.39,3.3,Yes,SKU-AUT-0212,2
+213,,Premium Charger,TechVault,Electronics,23.65,5.0,Yes,SKU-ELE-0213,5
+214,,Limited Edition Wall Art,NovaTech,Home & Garden,195.03,3.4,Yes,SKU-HOM-0214,4
+215,,Portable Hair Pin,PageTurner,Jewelry,5.66,3.0,Yes,SKU-JEW-0215,3
+216,,Deluxe Laptop Sleeve,NovaTech,Electronics,17.79,4.6,Yes,SKU-ELE-0216,2
+217,,Wireless Journal,CozyCorner,Books,174.01,3.5,Yes,SKU-BOO-0217,2
+218,,Essential Litter Box,UrbanThread,Pet Supplies,86.69,3.4,No,SKU-PET-0218,3
+219,,Smart Stud Earrings,PageTurner,Jewelry,94.56,4.2,Yes,SKU-JEW-0219,4
+220,,Modern Wiper Blade,NovaTech,Automotive,81.75,3.8,Yes,SKU-AUT-0220,5
+221,,Portable Tennis Balls,TasteBud,Sports,51.66,3.9,Yes,SKU-SPO-0221,5
+222,,Organic Jump Starter,CozyCorner,Automotive,204.67,4.9,Yes,SKU-AUT-0222,4
+223,,Heavy-Duty Ruler,DeskMate,Office Supplies,37.37,4.4,Yes,SKU-OFF-0223,5
+224,,Ultra Face Mask,SoundWave,Beauty,171.32,4.1,Yes,SKU-BEA-0224,5
+225,,Organic Stapler,SoundWave,Office Supplies,70.78,3.9,Yes,SKU-OFF-0225,4
+226,,Pro Desk Organizer,SoundWave,Office Supplies,101.0,4.2,Yes,SKU-OFF-0226,3
+227,,Wireless Steering Wheel Cover,ProGear,Automotive,156.47,4.6,Yes,SKU-AUT-0227,5
+228,,Heavy-Duty Science Book,TasteBud,Books,178.14,3.7,Yes,SKU-BOO-0228,5
+229,,Vintage Sweatband,NovaTech,Sports,114.5,5.0,Yes,SKU-SPO-0229,2
+230,,Advanced Energy Drink,ArtisanHub,Food & Beverage,54.89,4.8,Yes,SKU-FOO-0230,4
+231,,Essential Speaker Cable,CozyCorner,Music,70.57,3.4,Yes,SKU-MUS-0231,2
+232,,Classic Joggers,TechVault,Clothing,204.86,4.6,Yes,SKU-CLO-0232,4
+233,,Classic Water Bottle,HomeNest,Sports,106.03,4.9,Yes,SKU-SPO-0233,2
+234,,Wireless Coloring Book,TechVault,Books,7.36,4.4,Yes,SKU-BOO-0234,3
+235,,Deluxe Pencil Set,VitalLife,Art,168.21,3.0,Yes,SKU-ART-0235,3
+236,,Handcrafted Joggers,DeskMate,Clothing,117.83,3.9,Yes,SKU-CLO-0236,4
+237,,Classic Makeup Brush Set,SparkleBox,Beauty,149.46,4.5,Yes,SKU-BEA-0237,3
+238,,Wireless Audio Cable,NovaTech,Music,75.81,3.1,Yes,SKU-MUS-0238,3
+239,,Smart Mouse Pad,TasteBud,Electronics,21.44,4.0,Yes,SKU-ELE-0239,2
+240,,Wireless Chain,SoundWave,Jewelry,95.83,3.2,Yes,SKU-JEW-0240,5
+241,,Lightweight Planner,AutoParts Pro,Books,111.17,4.1,Yes,SKU-BOO-0241,3
+242,,Lightweight Storage Basket,CozyCorner,Home & Garden,174.65,4.5,Yes,SKU-HOM-0242,3
+243,,Pro Spice Rack,TechVault,Home & Garden,184.66,4.2,Yes,SKU-HOM-0243,2
+244,,Deluxe Bath Bomb,DeskMate,Beauty,79.62,4.0,Yes,SKU-BEA-0244,3
+245,,Advanced Scarf,AutoParts Pro,Clothing,79.61,3.8,Yes,SKU-CLO-0245,2
+246,,Portable Popcorn Pack,ArtisanHub,Food & Beverage,75.79,4.3,Yes,SKU-FOO-0246,3
+247,,Professional HDMI Cable,FitPro,Electronics,27.06,4.8,Yes,SKU-ELE-0247,2
+248,,Organic Toe Ring,MindBooks,Jewelry,201.23,4.4,Yes,SKU-JEW-0248,4
+249,,Pro Guitar Strings,TasteBud,Music,149.41,4.7,Yes,SKU-MUS-0249,5
+250,,Essential Sweatband,PageTurner,Sports,173.68,4.6,Yes,SKU-SPO-0250,1
+251,,Modern Pet Bed,TasteBud,Pet Supplies,76.46,3.7,Yes,SKU-PET-0251,2
+252,,Lightweight Napkin Holder,DeskMate,Home & Garden,124.68,4.0,Yes,SKU-HOM-0252,4
+253,,Eco-Friendly Resistance Bands,TechVault,Sports,60.21,3.8,Yes,SKU-SPO-0253,4
+254,,Modern Brooch,PageTurner,Jewelry,23.37,3.3,Yes,SKU-JEW-0254,4
+255,,Premium Ring Light,ArtisanHub,Electronics,40.46,3.3,No,SKU-ELE-0255,4
+256,,Essential Fish Tank Filter,ProGear,Pet Supplies,84.36,4.8,Yes,SKU-PET-0256,3
+257,,Heavy-Duty Brush Kit,ArtisanHub,Art,86.42,3.8,Yes,SKU-ART-0257,3
+258,,Compact Throw Pillow,SoundWave,Home & Garden,194.24,3.8,Yes,SKU-HOM-0258,2
+259,,Heavy-Duty Trunk Organizer,UrbanThread,Automotive,159.86,3.5,No,SKU-AUT-0259,4
+260,,Eco-Friendly Body Chain,ArtisanHub,Jewelry,68.39,3.3,Yes,SKU-JEW-0260,2
+261,,Pro Grooming Brush,StyleCraft,Pet Supplies,77.92,5.0,Yes,SKU-PET-0261,5
+262,,Smart Storage Basket,PageTurner,Home & Garden,146.35,4.1,No,SKU-HOM-0262,3
+263,,Advanced Olive Oil,TasteBud,Food & Beverage,198.79,3.4,Yes,SKU-FOO-0263,4
+264,,Professional Stuffed Animal,DeskMate,Toys,166.62,4.5,No,SKU-TOY-0264,5
+265,,Organic Gaming Mouse,MindBooks,Electronics,28.78,3.5,Yes,SKU-ELE-0265,3
+266,,Essential LED Desk Lamp,TechVault,Electronics,156.21,3.3,Yes,SKU-ELE-0266,4
+267,,Classic Graphic Novel,PageTurner,Books,112.38,4.9,Yes,SKU-BOO-0267,3
+268,,Modern Omega-3 Capsules,PageTurner,Health,13.4,4.4,Yes,SKU-HEA-0268,3
+269,,Handcrafted Compression Sleeve,StyleCraft,Health,154.03,4.9,Yes,SKU-HEA-0269,5
+270,,Lightweight Dog Treat,PageTurner,Pet Supplies,160.82,4.4,Yes,SKU-PET-0270,4
+271,,Portable Puzzle Set,HomeNest,Toys,83.15,3.0,Yes,SKU-TOY-0271,3
+272,,Compact Travel Guide,PlayZone,Books,19.33,5.0,Yes,SKU-BOO-0272,4
+273,,Portable Fitness Tracker,FitPro,Sports,147.65,3.3,Yes,SKU-SPO-0273,4
+274,,Smart Lip Balm,PawPal,Beauty,117.61,3.1,Yes,SKU-BEA-0274,2
+275,,Ultra Play Dough,PlayZone,Toys,60.0,4.7,No,SKU-TOY-0275,2
+276,,Portable Whiteboard,HomeNest,Office Supplies,100.95,4.3,No,SKU-OFF-0276,4
+277,,Pro Silver Necklace,TasteBud,Jewelry,169.56,4.6,Yes,SKU-JEW-0277,2
+278,,Portable Throw Pillow,HomeNest,Home & Garden,62.55,4.2,Yes,SKU-HOM-0278,4
+279,,Portable Compression Socks,StyleCraft,Sports,21.34,4.8,Yes,SKU-SPO-0279,3
+280,,Advanced Amp,PageTurner,Music,179.11,4.9,Yes,SKU-MUS-0280,3
+281,,Organic Toner,PawPal,Beauty,33.68,4.0,Yes,SKU-BEA-0281,5
+282,,Vintage Melatonin,SoundWave,Health,72.06,3.7,Yes,SKU-HEA-0282,4
+283,,Organic Snack Box,GlowUp,Food & Beverage,121.79,3.8,Yes,SKU-FOO-0283,5
+284,,Classic Snack Box,DeskMate,Food & Beverage,55.44,4.8,Yes,SKU-FOO-0284,3
+285,,Heavy-Duty Microphone,ProGear,Electronics,9.7,3.3,Yes,SKU-ELE-0285,3
+286,,Wireless Jam Collection,SparkleBox,Food & Beverage,107.47,4.3,No,SKU-FOO-0286,3
+287,,Essential Dried Fruit,AutoParts Pro,Food & Beverage,16.27,3.7,Yes,SKU-FOO-0287,3
+288,,Advanced Flea Collar,NovaTech,Pet Supplies,192.71,4.0,Yes,SKU-PET-0288,3
+289,,Portable Mechanical Keyboard,NovaTech,Electronics,58.98,4.5,Yes,SKU-ELE-0289,4
+290,,Deluxe Pasta Set,UrbanThread,Food & Beverage,74.26,3.3,Yes,SKU-FOO-0290,5
+291,,Vintage Honey Jar,SparkleBox,Food & Beverage,17.89,3.6,Yes,SKU-FOO-0291,2
+292,,Classic Body Lotion,UrbanThread,Beauty,12.7,4.5,No,SKU-BEA-0292,3
+293,,Wireless Envelope Pack,GlowUp,Office Supplies,21.41,3.5,Yes,SKU-OFF-0293,5
+294,,Eco-Friendly Chain,HomeNest,Jewelry,172.63,4.6,Yes,SKU-JEW-0294,4
+295,,Heavy-Duty Hair Oil,ProGear,Beauty,52.79,3.4,Yes,SKU-BEA-0295,2
+296,,Organic Wiper Blade,PlayZone,Automotive,201.44,4.6,Yes,SKU-AUT-0296,2
+297,,Wireless Foam Roller,AutoParts Pro,Sports,194.7,3.6,Yes,SKU-SPO-0297,3
+298,,Vintage Calculator,TasteBud,Office Supplies,100.01,3.3,Yes,SKU-OFF-0298,3
+299,,Smart Science Book,ProGear,Books,73.2,3.5,Yes,SKU-BOO-0299,4
+300,,Advanced Calligraphy Set,TasteBud,Art,39.94,4.1,Yes,SKU-ART-0300,2
+301,,Ultra MIDI Controller,MindBooks,Music,83.16,3.1,Yes,SKU-MUS-0301,2
+302,,Modern Oil Filter,TasteBud,Automotive,146.29,4.1,Yes,SKU-AUT-0302,3
+303,,Compact Mouse Pad,SoundWave,Electronics,81.42,4.0,Yes,SKU-ELE-0303,2
+304,,Pro Vitamin Pack,MindBooks,Health,84.0,4.3,Yes,SKU-HEA-0304,4
+305,,Portable Stuffed Animal,UrbanThread,Toys,79.08,3.2,Yes,SKU-TOY-0305,3
+306,,Wireless Joggers,TasteBud,Clothing,181.84,3.2,Yes,SKU-CLO-0306,5
+307,,Professional Air Freshener,PlayZone,Automotive,148.02,4.8,Yes,SKU-AUT-0307,2
+308,,Premium Easel,AutoParts Pro,Art,125.0,3.7,No,SKU-ART-0308,5
+309,,Advanced Stud Earrings,TasteBud,Jewelry,19.77,3.5,Yes,SKU-JEW-0309,3
+310,,Portable Robot Kit,PlayZone,Toys,107.24,4.9,Yes,SKU-TOY-0310,3
+311,,Compact Mug Set,UrbanThread,Home & Garden,191.35,4.6,Yes,SKU-HOM-0311,3
+312,,Essential Science Book,FitPro,Books,130.86,4.7,Yes,SKU-BOO-0312,3
+313,,Lightweight Biography,CozyCorner,Books,189.7,4.6,Yes,SKU-BOO-0313,3
+314,,Organic Eye Cream,GlowUp,Beauty,5.12,3.8,Yes,SKU-BEA-0314,2
+315,,Premium Omega-3 Capsules,StyleCraft,Health,115.44,3.6,Yes,SKU-HEA-0315,4
+316,,Deluxe SSD Drive,ArtisanHub,Electronics,8.33,4.2,Yes,SKU-ELE-0316,5
+317,,Ultra Bangle,TasteBud,Jewelry,194.15,5.0,Yes,SKU-JEW-0317,5
+318,,Premium Stuffed Animal,VitalLife,Toys,97.99,3.0,Yes,SKU-TOY-0318,3
+319,,Vintage Sheet Music,ProGear,Music,12.46,3.4,Yes,SKU-MUS-0319,4
+320,,Wireless Stapler,MindBooks,Office Supplies,43.41,3.6,Yes,SKU-OFF-0320,4
+321,,Wireless Food Bowl,UrbanThread,Pet Supplies,131.25,4.1,Yes,SKU-PET-0321,5
+322,,Handcrafted Carving Tools,HomeNest,Art,147.17,4.9,Yes,SKU-ART-0322,4
+323,,Classic Probiotics,SoundWave,Health,25.28,3.9,Yes,SKU-HEA-0323,4
+324,,Eco-Friendly Dumbbell Set,SparkleBox,Sports,87.11,3.7,Yes,SKU-SPO-0324,2
+325,,Portable Aquarium Plant,HomeNest,Pet Supplies,81.27,4.3,Yes,SKU-PET-0325,2
+326,,Vintage Table Runner,ProGear,Home & Garden,61.12,3.2,No,SKU-HOM-0326,2
+327,,Portable Pop Filter,SoundWave,Music,123.12,4.1,Yes,SKU-MUS-0327,3
+328,,Lightweight Children's Book,VitalLife,Books,121.56,3.3,No,SKU-BOO-0328,5
+329,,Heavy-Duty Gaming Mouse,AutoParts Pro,Electronics,149.4,4.8,No,SKU-ELE-0329,3
+330,,Ultra Synthesizer Patch,AutoParts Pro,Music,155.11,4.5,Yes,SKU-MUS-0330,4
+331,,Classic Tape Dispenser,TasteBud,Office Supplies,176.51,3.2,Yes,SKU-OFF-0331,5
+332,,Lightweight Coaster Set,TechVault,Home & Garden,193.52,4.2,No,SKU-HOM-0332,1
+333,,Heavy-Duty Trunk Organizer,CozyCorner,Automotive,51.77,4.0,Yes,SKU-AUT-0333,5
+334,,Essential Desk Organizer,PlayZone,Office Supplies,185.73,4.7,Yes,SKU-OFF-0334,5
+335,,Ultra Spark Plug,PlayZone,Automotive,110.93,4.7,Yes,SKU-AUT-0335,5
+336,,Classic Pendant,AutoParts Pro,Jewelry,158.89,4.9,Yes,SKU-JEW-0336,4
+337,,Vintage Tiara,GlowUp,Jewelry,116.86,4.7,Yes,SKU-JEW-0337,4
+338,,Modern Perfume,GlowUp,Beauty,202.59,3.9,Yes,SKU-BEA-0338,2
+339,,Professional Color Wheel,SoundWave,Art,13.45,4.0,Yes,SKU-ART-0339,4
+340,,Ultra Wall Art,AutoParts Pro,Home & Garden,93.41,3.8,Yes,SKU-HOM-0340,4
+341,,Smart Dumbbell Set,StyleCraft,Sports,147.22,4.1,Yes,SKU-SPO-0341,4
+342,,Pro Charger,PawPal,Electronics,45.06,3.7,No,SKU-ELE-0342,2
+343,,Portable Business Book,FitPro,Books,192.55,3.1,Yes,SKU-BOO-0343,2
+344,,Professional Popcorn Pack,PageTurner,Food & Beverage,122.84,3.1,Yes,SKU-FOO-0344,4
+345,,Deluxe Phone Case,PlayZone,Electronics,110.14,3.0,Yes,SKU-ELE-0345,4
+346,,Vintage Yoga Mat,MindBooks,Sports,27.71,3.6,Yes,SKU-SPO-0346,2
+347,,Pro Toner,PlayZone,Beauty,147.87,3.6,No,SKU-BEA-0347,2
+348,,Handcrafted Popcorn Pack,HomeNest,Food & Beverage,123.43,3.8,Yes,SKU-FOO-0348,3
+349,,Vintage Massage Gun,SparkleBox,Health,184.15,3.0,Yes,SKU-HEA-0349,2
+350,,Portable Hoop Earrings,ProGear,Jewelry,47.61,3.6,Yes,SKU-JEW-0350,4
+351,,Wireless Floor Mat,SoundWave,Automotive,88.69,4.7,Yes,SKU-AUT-0351,4
+352,,Limited Edition Wireless Earbuds,SoundWave,Electronics,20.59,4.4,Yes,SKU-ELE-0352,3
+353,,Limited Edition Charger,VitalLife,Electronics,17.03,3.4,Yes,SKU-ELE-0353,3
+354,,Eco-Friendly Kite,StyleCraft,Toys,118.29,4.8,Yes,SKU-TOY-0354,5
+355,,Ultra Bubble Machine,ArtisanHub,Toys,149.1,4.7,Yes,SKU-TOY-0355,4
+356,,Smart Bookend,ProGear,Home & Garden,151.96,3.2,Yes,SKU-HOM-0356,2
+357,,Lightweight Sneakers,DeskMate,Clothing,200.94,4.0,Yes,SKU-CLO-0357,4
+358,,Classic Coconut Water,DeskMate,Food & Beverage,151.61,4.3,No,SKU-FOO-0358,3
+359,,Compact Gaming Mouse,PageTurner,Electronics,146.92,4.4,Yes,SKU-ELE-0359,5
+360,,Pro Calculator,SoundWave,Office Supplies,174.36,3.4,Yes,SKU-OFF-0360,5
+361,,Premium Color Wheel,ArtisanHub,Art,196.92,3.9,Yes,SKU-ART-0361,3
+362,,Lightweight Scale,AutoParts Pro,Health,184.17,3.7,Yes,SKU-HEA-0362,3
+363,,Compact Windbreaker,PlayZone,Clothing,100.19,4.6,Yes,SKU-CLO-0363,2
+364,,Essential Moisturizer,SparkleBox,Beauty,144.11,3.6,Yes,SKU-BEA-0364,4
+365,,Modern Marker Pack,MindBooks,Art,18.68,4.3,Yes,SKU-ART-0365,2
+366,,Ultra Label Maker,PageTurner,Office Supplies,108.75,4.6,Yes,SKU-OFF-0366,3
+367,,Compact Ring Light,PlayZone,Electronics,9.67,4.0,Yes,SKU-ELE-0367,4
+368,,Pro Matcha Powder,GlowUp,Food & Beverage,61.14,4.4,Yes,SKU-FOO-0368,5
+369,,Lightweight Fantasy Epic,VitalLife,Books,83.62,3.8,Yes,SKU-BOO-0369,2
+370,,Heavy-Duty Locket,TechVault,Jewelry,127.92,4.2,Yes,SKU-JEW-0370,2
+371,,Professional Probiotics,FitPro,Health,32.47,4.7,Yes,SKU-HEA-0371,4
+372,,Compact Bracelet,ArtisanHub,Jewelry,10.53,3.4,Yes,SKU-JEW-0372,2
+373,,Premium Car Charger,VitalLife,Automotive,65.48,3.2,No,SKU-AUT-0373,4
+374,,Classic Wireless Earbuds,SoundWave,Electronics,120.91,3.1,Yes,SKU-ELE-0374,5
+375,,Heavy-Duty Desk Organizer,GlowUp,Office Supplies,190.99,3.0,Yes,SKU-OFF-0375,2
+376,,Handcrafted Vinyl Record,CozyCorner,Music,163.48,5.0,Yes,SKU-MUS-0376,2
+377,,Heavy-Duty Microphone,FitPro,Music,7.77,3.1,No,SKU-MUS-0377,2
+378,,Heavy-Duty Trail Mix,SoundWave,Food & Beverage,105.04,3.0,Yes,SKU-FOO-0378,2
+379,,Compact Trail Mix,AutoParts Pro,Food & Beverage,203.99,4.9,Yes,SKU-FOO-0379,2
+380,,Advanced Locket,PawPal,Jewelry,126.47,4.2,Yes,SKU-JEW-0380,3
+381,,Eco-Friendly Pet Shampoo,DeskMate,Pet Supplies,16.99,4.6,Yes,SKU-PET-0381,4
+382,,Essential Scarf,TasteBud,Clothing,68.02,3.8,Yes,SKU-CLO-0382,1
+383,,Smart Drum Sticks,ArtisanHub,Music,88.35,5.0,Yes,SKU-MUS-0383,2
+384,,Lightweight Doormat,GlowUp,Home & Garden,96.6,4.3,Yes,SKU-HOM-0384,4
+385,,Vintage Slime Kit,UrbanThread,Toys,170.43,3.7,Yes,SKU-TOY-0385,3
+386,,Modern SSD Drive,MindBooks,Electronics,90.96,3.3,No,SKU-ELE-0386,2
+387,,Modern Gym Bag,VitalLife,Sports,182.1,3.8,No,SKU-SPO-0387,4
+388,,Advanced Dog Food,ProGear,Pet Supplies,146.34,3.9,Yes,SKU-PET-0388,5
+389,,Compact Sci-Fi Novel,TechVault,Books,81.95,4.5,No,SKU-BOO-0389,2
+390,,Limited Edition Grooming Brush,TasteBud,Pet Supplies,187.72,4.7,No,SKU-PET-0390,3
+391,,Premium Pastel Set,TechVault,Art,176.68,4.8,Yes,SKU-ART-0391,4
+392,,Handcrafted Gaming Mouse,TechVault,Electronics,191.69,4.3,Yes,SKU-ELE-0392,2
+393,,Heavy-Duty Collagen Powder,FitPro,Health,126.07,4.2,Yes,SKU-HEA-0393,3
+394,,Deluxe Catnip,PageTurner,Pet Supplies,95.29,3.9,Yes,SKU-PET-0394,3
+395,,Advanced Zinc Tablets,PageTurner,Health,57.79,3.0,Yes,SKU-HEA-0395,3
+396,,Professional Popcorn Pack,ArtisanHub,Food & Beverage,52.95,4.1,Yes,SKU-FOO-0396,4
+397,,Pro Denim Jacket,ArtisanHub,Clothing,148.24,4.7,Yes,SKU-CLO-0397,3
+398,,Lightweight Beanie,PlayZone,Clothing,98.1,3.4,Yes,SKU-CLO-0398,4
+399,,Handcrafted Notebook,DeskMate,Office Supplies,164.89,3.9,Yes,SKU-OFF-0399,4
+400,,Limited Edition Bluetooth Speaker,ArtisanHub,Electronics,20.98,3.5,Yes,SKU-ELE-0400,3
+401,,Professional Flannel Shirt,NovaTech,Clothing,171.02,4.7,Yes,SKU-CLO-0401,3
+402,,Vintage Marble Run,ArtisanHub,Toys,21.51,4.1,Yes,SKU-TOY-0402,3
+403,,Pro Self-Help Guide,NovaTech,Books,43.95,4.0,No,SKU-BOO-0403,5
+404,,Limited Edition Calculator,SparkleBox,Office Supplies,47.37,5.0,No,SKU-OFF-0404,5
+405,,Compact Popcorn Pack,SparkleBox,Food & Beverage,168.65,3.2,Yes,SKU-FOO-0405,2
+406,,Handcrafted Conditioner,AutoParts Pro,Beauty,76.63,4.8,Yes,SKU-BEA-0406,2
+407,,Ultra Cat Tree,VitalLife,Pet Supplies,15.1,3.0,Yes,SKU-PET-0407,3
+408,,Organic Hot Sauce,TasteBud,Food & Beverage,139.44,4.8,Yes,SKU-FOO-0408,4
+409,,Compact Litter Box,DeskMate,Pet Supplies,101.33,3.5,Yes,SKU-PET-0409,2
+410,,Wireless Sweatband,PlayZone,Sports,16.35,3.4,Yes,SKU-SPO-0410,4
+411,,Lightweight Sketchbook,NovaTech,Art,116.88,4.7,Yes,SKU-ART-0411,4
+412,,Portable Art Portfolio,TasteBud,Art,181.73,4.5,Yes,SKU-ART-0412,2
+413,,Smart Hot Sauce,NovaTech,Food & Beverage,203.21,4.1,Yes,SKU-FOO-0413,4
+414,,Limited Edition Dash Cam,TasteBud,Automotive,124.89,4.6,No,SKU-AUT-0414,5
+415,,Portable Exfoliator,ProGear,Beauty,112.25,4.8,Yes,SKU-BEA-0415,4
+416,,Vintage Scale,AutoParts Pro,Health,152.49,3.5,Yes,SKU-HEA-0416,4
+417,,Lightweight Webcam,DeskMate,Electronics,171.45,4.6,Yes,SKU-ELE-0417,2
+418,,Vintage Towel Set,ArtisanHub,Home & Garden,121.47,3.6,Yes,SKU-HOM-0418,2
+419,,Ultra Pet Carrier,PawPal,Pet Supplies,25.22,3.5,Yes,SKU-PET-0419,5
+420,,Heavy-Duty Dumbbell Set,ArtisanHub,Sports,78.71,4.8,Yes,SKU-SPO-0420,2
+421,,Modern Synthesizer Patch,PageTurner,Music,43.21,3.9,No,SKU-MUS-0421,2
+422,,Pro Music Stand,PawPal,Music,156.18,3.4,Yes,SKU-MUS-0422,2
+423,,Portable Floor Mat,PageTurner,Automotive,130.9,3.2,Yes,SKU-AUT-0423,2
+424,,Modern Car Charger,TechVault,Automotive,59.51,3.2,Yes,SKU-AUT-0424,5
+425,,Limited Edition Cat Tree,VitalLife,Pet Supplies,15.0,4.4,Yes,SKU-PET-0425,3
+426,,Advanced Pasta Set,NovaTech,Food & Beverage,182.57,3.5,No,SKU-FOO-0426,2
+427,,Vintage Tennis Balls,StyleCraft,Sports,195.69,3.3,Yes,SKU-SPO-0427,5
+428,,Vintage Brush Kit,ArtisanHub,Art,79.2,3.8,No,SKU-ART-0428,4
+429,,Handcrafted Skipping Rope,PawPal,Sports,170.8,4.6,Yes,SKU-SPO-0429,5
+430,,Eco-Friendly Tennis Balls,GlowUp,Sports,49.39,3.5,Yes,SKU-SPO-0430,5
+431,,Classic LED Desk Lamp,MindBooks,Electronics,104.95,4.7,Yes,SKU-ELE-0431,3
+432,,Professional Paint Set,NovaTech,Art,146.73,3.6,Yes,SKU-ART-0432,5
+433,,Lightweight Chain,PageTurner,Jewelry,8.63,3.3,No,SKU-JEW-0433,5
+434,,Organic Face Serum,SoundWave,Beauty,104.4,4.6,Yes,SKU-BEA-0434,3
+435,,Limited Edition Label Maker,PlayZone,Office Supplies,91.83,3.1,Yes,SKU-OFF-0435,4
+436,,Heavy-Duty Coaster Set,PlayZone,Home & Garden,148.85,4.5,Yes,SKU-HOM-0436,2
+437,,Smart Pen Set,CozyCorner,Office Supplies,114.75,3.6,Yes,SKU-OFF-0437,4
+438,,Portable Hoodie,UrbanThread,Clothing,189.43,4.2,Yes,SKU-CLO-0438,3
+439,,Portable Coloring Book,PlayZone,Books,92.44,4.7,No,SKU-BOO-0439,4
+440,,Lightweight Sunglasses,TasteBud,Clothing,13.69,4.8,Yes,SKU-CLO-0440,3
+441,,Compact Hair Pin,TasteBud,Jewelry,24.18,3.4,Yes,SKU-JEW-0441,3
+442,,Eco-Friendly SSD Drive,ProGear,Electronics,37.34,3.2,No,SKU-ELE-0442,3
+443,,Professional Whiteboard,SoundWave,Office Supplies,38.11,4.8,Yes,SKU-OFF-0443,4
+444,,Classic Skipping Rope,TasteBud,Sports,80.22,3.3,Yes,SKU-SPO-0444,3
+445,,Pro Dollhouse,SoundWave,Toys,12.0,4.0,Yes,SKU-TOY-0445,1
+446,,Limited Edition Pendant,CozyCorner,Jewelry,98.13,4.4,Yes,SKU-JEW-0446,4
+447,,Advanced Correction Tape,VitalLife,Office Supplies,39.66,4.0,Yes,SKU-OFF-0447,3
+448,,Advanced Screen Protector,PawPal,Electronics,186.81,4.3,Yes,SKU-ELE-0448,5
+449,,Compact Spark Plug,StyleCraft,Automotive,108.04,4.5,No,SKU-AUT-0449,3
+450,,Limited Edition Floor Mat,CozyCorner,Automotive,127.16,3.2,Yes,SKU-AUT-0450,4
+451,,Pro Hoodie,UrbanThread,Clothing,72.15,4.9,Yes,SKU-CLO-0451,3
+452,,Portable Ab Wheel,UrbanThread,Sports,65.37,4.7,No,SKU-SPO-0452,4
+453,,Pro Ice Scraper,StyleCraft,Automotive,76.87,4.7,Yes,SKU-AUT-0453,5
+454,,Handcrafted SSD Drive,VitalLife,Electronics,142.86,3.6,Yes,SKU-ELE-0454,4
+455,,Classic Tea Collection,HomeNest,Food & Beverage,130.9,3.1,Yes,SKU-FOO-0455,4
+456,,Essential Floor Mat,TasteBud,Automotive,129.18,3.3,Yes,SKU-AUT-0456,4
+457,,Compact Board Game,PageTurner,Toys,102.16,4.6,Yes,SKU-TOY-0457,5
+458,,Premium Guitar Strings,DeskMate,Music,166.64,4.8,Yes,SKU-MUS-0458,3
+459,,Compact Olive Oil,ProGear,Food & Beverage,188.11,4.8,Yes,SKU-FOO-0459,2
+460,,Handcrafted Paint Set,PageTurner,Art,30.3,4.4,Yes,SKU-ART-0460,2
+461,,Vintage Cufflinks,HomeNest,Jewelry,175.08,4.3,Yes,SKU-JEW-0461,3
+462,,Ultra Clock,TechVault,Home & Garden,150.28,3.7,Yes,SKU-HOM-0462,3
+463,,Vintage Coconut Water,PageTurner,Food & Beverage,185.58,4.7,Yes,SKU-FOO-0463,4
+464,,Smart Pop Filter,VitalLife,Music,136.32,4.4,No,SKU-MUS-0464,2
+465,,Portable Calligraphy Set,TasteBud,Art,49.68,3.8,Yes,SKU-ART-0465,5
+466,,Essential Stencil Set,FitPro,Art,72.64,4.4,No,SKU-ART-0466,2
+467,,Ultra Locket,VitalLife,Jewelry,132.16,3.5,Yes,SKU-JEW-0467,5
+468,,Premium Stencil Set,StyleCraft,Art,15.32,4.2,No,SKU-ART-0468,4
+469,,Eco-Friendly Charm,ArtisanHub,Jewelry,34.87,4.4,Yes,SKU-JEW-0469,3
+470,,Lightweight Laptop Sleeve,PageTurner,Electronics,72.93,3.7,Yes,SKU-ELE-0470,3
+471,,Compact Ice Scraper,TechVault,Automotive,29.03,4.8,No,SKU-AUT-0471,2
+472,,Eco-Friendly Picture Frame,TasteBud,Home & Garden,59.95,3.4,No,SKU-HOM-0472,3
+473,,Lightweight Massage Gun,SoundWave,Health,152.52,3.2,Yes,SKU-HEA-0473,4
+474,,Handcrafted Zinc Tablets,TechVault,Health,155.69,4.5,Yes,SKU-HEA-0474,4
+475,,Eco-Friendly Fixative Spray,AutoParts Pro,Art,199.19,3.7,Yes,SKU-ART-0475,5
+476,,Wireless Science Kit,AutoParts Pro,Toys,18.39,4.3,Yes,SKU-TOY-0476,5
+477,,Organic Polo Shirt,PageTurner,Clothing,30.02,3.7,Yes,SKU-CLO-0477,2
+478,,Compact Gym Bag,AutoParts Pro,Sports,13.39,3.4,Yes,SKU-SPO-0478,5
+479,,Portable Throw Pillow,CozyCorner,Home & Garden,65.29,3.4,Yes,SKU-HOM-0479,4
+480,,Pro Highlighters,HomeNest,Office Supplies,151.15,4.3,Yes,SKU-OFF-0480,2
+481,,Premium Action Figure,SoundWave,Toys,116.38,4.5,Yes,SKU-TOY-0481,4
+482,,Pro Exfoliator,CozyCorner,Beauty,155.35,3.9,Yes,SKU-BEA-0482,4
+483,,Lightweight Throw Pillow,AutoParts Pro,Home & Garden,170.73,4.6,No,SKU-HOM-0483,4
+484,,Organic Ab Wheel,NovaTech,Sports,35.29,3.8,Yes,SKU-SPO-0484,4
+485,,Professional Synthesizer Patch,NovaTech,Music,73.54,3.4,Yes,SKU-MUS-0485,4
+486,,Smart Monitor Stand,MindBooks,Electronics,80.41,3.4,Yes,SKU-ELE-0486,3
+487,,Classic USB-C Hub,GlowUp,Electronics,69.3,4.0,Yes,SKU-ELE-0487,3
+488,,Heavy-Duty Beanie,NovaTech,Clothing,121.62,3.2,Yes,SKU-CLO-0488,4
+489,,Portable Essential Oil,SoundWave,Health,13.89,4.6,Yes,SKU-HEA-0489,3
+490,,Ultra Beanie,CozyCorner,Clothing,52.43,3.5,Yes,SKU-CLO-0490,5
+491,,Premium Fitness Tracker,DeskMate,Sports,122.51,3.9,No,SKU-SPO-0491,3
+492,,Smart Tea Collection,PawPal,Food & Beverage,113.75,3.7,No,SKU-FOO-0492,4
+493,,Pro Pendant,PlayZone,Jewelry,178.56,4.3,Yes,SKU-JEW-0493,4
+494,,Essential Hair Oil,ArtisanHub,Beauty,188.87,3.2,No,SKU-BEA-0494,3
+495,,Wireless Granola,UrbanThread,Food & Beverage,13.31,4.9,No,SKU-FOO-0495,2
+496,,Advanced Mystery Novel,CozyCorner,Books,9.72,3.1,Yes,SKU-BOO-0496,4
+497,,Vintage Cat Toy,HomeNest,Pet Supplies,99.7,4.8,Yes,SKU-PET-0497,2
+498,,Compact Clock,HomeNest,Home & Garden,67.89,4.9,Yes,SKU-HOM-0498,4
+499,,Heavy-Duty Gym Bag,TechVault,Sports,63.7,4.8,Yes,SKU-SPO-0499,3
+500,,Classic Grooming Brush,MindBooks,Pet Supplies,59.07,4.6,Yes,SKU-PET-0500,4
